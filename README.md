@@ -3,6 +3,8 @@
 ## About
 This project is a simple CRUD (Create, Read, Update, Delete) application built using Node.js and Express. It serves as a basic template to set up a server, create routes, and handle GET requests.
 
+![image](https://github.com/pujaroy280/CRUD-1-Read/assets/62675121/0e504f60-14ac-4c03-9fa3-f5149e087f4a)
+
 ## Technologies
 - Node.js
 - Express
